@@ -1,5 +1,6 @@
 {
 	"pathwayTitle": "Kubernetes Bootcamp",
+	"private": false,
 	"title": "Module 1 - Create a Kubernetes cluster",
 	"description": "Create a Kubernetes cluster",
 	"backend": {
