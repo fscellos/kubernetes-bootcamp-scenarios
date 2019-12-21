@@ -1,4 +1,4 @@
-We already installed minikube for you. Check that it is properly installed, by running the *minikube version* command:
+Nous avons installé MK pour vous. Check that it is properly installed, by running the *minikube version* command:
 
 `minikube version`{{execute}}
 
